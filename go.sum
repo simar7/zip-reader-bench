@@ -1,0 +1,6 @@
+github.com/aquasecurity/go-dep-parser v0.0.0-20240202105001-4f19ab402b0b h1:GEwxQO0+OcZ4wgmtqU+8qBK179BXhz+WHTWahZA5dfM=
+github.com/aquasecurity/go-dep-parser v0.0.0-20240202105001-4f19ab402b0b/go.mod h1:P0PmelcN1ABKJrDzRbPnn6hK7RvgI+xmjiV/9uPaNnY=
+github.com/aquasecurity/trivy v0.49.1 h1:JiwITykmxMgxNY4NZqxUgMxe0vWwDa4e5Glg46plqQI=
+github.com/aquasecurity/trivy v0.49.1/go.mod h1:e+AhmSIbE1g8Di5Io5UBLk/seForwoNbp7543h/DCHo=
+golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 h1:H2TDz8ibqkAF6YGhCdN3jS9O0/s90v0rJh3X/OLHEUk=
+golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2/go.mod h1:K8+ghG5WaK9qNqU5K3HdILfMLy1f3aNYFI/wnl100a8=

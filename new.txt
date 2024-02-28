@@ -1,0 +1,15 @@
+goos: darwin
+goarch: arm64
+pkg: github.com/simar7/readseekr-bench
+BenchmarkNormal-10    	  134052	      8231 ns/op	    6406 B/op	      21 allocs/op
+BenchmarkNormal-10    	  141440	      8342 ns/op	    6405 B/op	      21 allocs/op
+BenchmarkNormal-10    	  149247	      8415 ns/op	    6405 B/op	      21 allocs/op
+BenchmarkNormal-10    	  146654	      8227 ns/op	    6406 B/op	      21 allocs/op
+BenchmarkNormal-10    	  144444	      8217 ns/op	    6407 B/op	      21 allocs/op
+BenchmarkNormal-10    	  146972	      8372 ns/op	    6406 B/op	      21 allocs/op
+BenchmarkNormal-10    	  140208	      8160 ns/op	    6407 B/op	      21 allocs/op
+BenchmarkNormal-10    	  150651	      8279 ns/op	    6407 B/op	      21 allocs/op
+BenchmarkNormal-10    	  136453	      8748 ns/op	    6406 B/op	      21 allocs/op
+BenchmarkNormal-10    	  143859	     10866 ns/op	    6406 B/op	      21 allocs/op
+PASS
+ok  	github.com/simar7/readseekr-bench	13.311s
